@@ -1,0 +1,19 @@
+DB 학습
+sql 크게 8개
+
+    DDL     	DML(data)
+ 
+T  table		
+C  create	
+R  x		select
+U  alter	insert
+D  drop		delete
+2S 
+G  
+
+
+위 7개 구문을 익혀야함
+
+
+node-mysql
+자바스크립트에서 mysql 제어하는 목적

@@ -39,44 +39,82 @@
     </GrVideoArr>
     <GrObjArr Size="10">
         <GrObj Type="4">
-            <GrTxtData Title="
- Spring MVC 프로젝트 
-  
-
- 주요기능 
-  
- - 회원가입, 로그인, 회원정보 변경, 탈퇴
-
- 작업환경
-  
- - java 1.*       - Spring 4.x    - Tomcat 8.0 
- - MySQL 5.x   - MyBatis       - Gradle 3.x
-
- 적용언어 
-  
- - java             - HTML5      - CSS
- - JavaScrpit     - jQuery
-  " RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\par
- Spring MVC \f1\&apos;c7\&apos;c1\&apos;b7\&apos;ce\&apos;c1\&apos;a7\&apos;c6\&apos;ae \par
-  \par
-\par
- \&apos;c1\&apos;d6\&apos;bf\&apos;e4\&apos;b1\&apos;e2\&apos;b4\&apos;c9 \par
-  \par
- - \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;b0\&apos;a1\&apos;c0\&apos;d4, \&apos;b7\&apos;ce\&apos;b1\&apos;d7\&apos;c0\&apos;ce, \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c1\&apos;a4\&apos;ba\&apos;b8 \&apos;ba\&apos;af\&apos;b0\&apos;e6, \&apos;c5\&apos;bb\&apos;c5\&apos;f0\par
-\par
- \&apos;c0\&apos;db\&apos;be\&apos;f7\&apos;c8\&apos;af\&apos;b0\&apos;e6\par
-  \par
- - java 1.*       - Spring 4.x    - Tomcat 8.0 \par
- - MySQL 5.x   - MyBatis       - Gradle 3.x\par
-\par
- \&apos;c0\&apos;fb\&apos;bf\&apos;eb\&apos;be\&apos;f0\&apos;be\&apos;ee \par
-  \par
- - java             - HTML5      - CSS\par
- - JavaScrpit     - jQuery\par
-  \par
-}
+            <GrTxtData Title="
+
+ Spring MVC 프로젝트 
+
+  
+
+
+
+ 주요기능 
+
+  
+
+ - 회원가입, 로그인, 회원정보 변경, 탈퇴
+
+
+
+ 작업환경
+
+  
+
+ - java 1.*       - Spring 4.x    - Tomcat 8.0 
+
+ - MySQL 5.x   - MyBatis       - Gradle 3.x
+
+
+
+ 적용언어 
+
+  
+
+ - java             - HTML5      - CSS
+
+ - JavaScrpit     - jQuery
+
+  " RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\par
+
+ Spring MVC \f1\&apos;c7\&apos;c1\&apos;b7\&apos;ce\&apos;c1\&apos;a7\&apos;c6\&apos;ae \par
+
+  \par
+
+\par
+
+ \&apos;c1\&apos;d6\&apos;bf\&apos;e4\&apos;b1\&apos;e2\&apos;b4\&apos;c9 \par
+
+  \par
+
+ - \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;b0\&apos;a1\&apos;c0\&apos;d4, \&apos;b7\&apos;ce\&apos;b1\&apos;d7\&apos;c0\&apos;ce, \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c1\&apos;a4\&apos;ba\&apos;b8 \&apos;ba\&apos;af\&apos;b0\&apos;e6, \&apos;c5\&apos;bb\&apos;c5\&apos;f0\par
+
+\par
+
+ \&apos;c0\&apos;db\&apos;be\&apos;f7\&apos;c8\&apos;af\&apos;b0\&apos;e6\par
+
+  \par
+
+ - java 1.*       - Spring 4.x    - Tomcat 8.0 \par
+
+ - MySQL 5.x   - MyBatis       - Gradle 3.x\par
+
+\par
+
+ \&apos;c0\&apos;fb\&apos;bf\&apos;eb\&apos;be\&apos;f0\&apos;be\&apos;ee \par
+
+  \par
+
+ - java             - HTML5      - CSS\par
+
+ - JavaScrpit     - jQuery\par
+
+  \par
+
+}
+
 " EffectType="1001" BackEffectType="1000" Align="0" StartSeg="0" TotalSeg="500" VideoIndex="0" EffectListID="1" PosX="50" PosY="50" BrushType="0" GradientType="0" Color="ffffffff" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="240">
                 <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="2" ShadowID="0" OutlineID="9"/>
@@ -326,55 +364,73 @@
 
 - 중복체크
 - 비밀번호 체크
+- 빈값 존재시 경고
 - Daum 주소" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}{\f1\fswiss\fcharset0 Arial;}}
 {\colortbl ;\red255\green255\blue255;}
 \viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;b0\&apos;a1\&apos;c0\&apos;d4\par
 \par
 - \&apos;c1\&apos;df\&apos;ba\&apos;b9\&apos;c3\&apos;bc\&apos;c5\&apos;a9\par
 - \&apos;ba\&apos;f1\&apos;b9\&apos;d0\&apos;b9\&apos;f8\&apos;c8\&apos;a3 \&apos;c3\&apos;bc\&apos;c5\&apos;a9\par
+- \&apos;ba\&apos;f3\&apos;b0\&apos;aa \&apos;c1\&apos;b8\&apos;c0\&apos;e7\&apos;bd\&apos;c3 \&apos;b0\&apos;e6\&apos;b0\&apos;ed\par
 - \f1 Daum \f0\&apos;c1\&apos;d6\&apos;bc\&apos;d2\par
 }
-" EffectType="0" BackEffectType="1000" Align="0" StartSeg="1686" TotalSeg="1900" VideoIndex="0" EffectListID="2" PosX="81" PosY="82" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
-            <GrTxtAttArr Size="32">
-                <GrTxtAtt Code="54924" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="50896" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="44032" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="51077" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="13" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="13" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="45" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="32" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="51473" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="48373" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="52404" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="53356" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="13" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="45" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="32" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="48708" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="48128" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="48264" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="54840" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="32" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="52404" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="53356" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="13" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="45" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="32" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="68" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="97" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="117" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="109" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="32" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="51452" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
-                <GrTxtAtt Code="49548" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+" EffectType="0" BackEffectType="1000" Align="0" StartSeg="1686" TotalSeg="1900" VideoIndex="0" EffectListID="2" PosX="80" PosY="81" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
+            <GrTxtAttArr Size="44">
+                <GrTxtAtt Code="54924" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="50896" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="44032" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="51077" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="13" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="13" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="45" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="51473" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="48373" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="52404" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="53356" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="13" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="45" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="48708" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="48128" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="48264" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="54840" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="52404" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="53356" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="13" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="45" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="48712" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="44050" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="51316" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="51116" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="49884" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="44221" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="44256" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="13" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="45" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="68" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="97" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="117" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="109" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="32" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="51452" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
+                <GrTxtAtt Code="49548" FontSize="54" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="로그인 기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b7\&apos;ce\&apos;b1\&apos;d7\&apos;c0\&apos;ce \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
-}
+            <GrTxtData Title="로그인 기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b7\&apos;ce\&apos;b1\&apos;d7\&apos;c0\&apos;ce \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="3785" TotalSeg="200" VideoIndex="0" EffectListID="3" PosX="85" PosY="86" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="6">
                 <GrTxtAtt Code="47196" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
@@ -386,18 +442,30 @@
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="회원정보 수정
- 
-- 회원정보 변경
-- 비밀번호 변경
-- 회원탈퇴" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c1\&apos;a4\&apos;ba\&apos;b8 \&apos;bc\&apos;f6\&apos;c1\&apos;a4\par
- \par
-- \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c1\&apos;a4\&apos;ba\&apos;b8 \&apos;ba\&apos;af\&apos;b0\&apos;e6\par
-- \&apos;ba\&apos;f1\&apos;b9\&apos;d0\&apos;b9\&apos;f8\&apos;c8\&apos;a3 \&apos;ba\&apos;af\&apos;b0\&apos;e6\par
-- \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c5\&apos;bb\&apos;c5\&apos;f0\par
-}
+            <GrTxtData Title="회원정보 수정
+
+ 
+
+- 회원정보 변경
+
+- 비밀번호 변경
+
+- 회원탈퇴" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c1\&apos;a4\&apos;ba\&apos;b8 \&apos;bc\&apos;f6\&apos;c1\&apos;a4\par
+
+ \par
+
+- \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c1\&apos;a4\&apos;ba\&apos;b8 \&apos;ba\&apos;af\&apos;b0\&apos;e6\par
+
+- \&apos;ba\&apos;f1\&apos;b9\&apos;d0\&apos;b9\&apos;f8\&apos;c8\&apos;a3 \&apos;ba\&apos;af\&apos;b0\&apos;e6\par
+
+- \&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c5\&apos;bb\&apos;c5\&apos;f0\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="4330" TotalSeg="1100" VideoIndex="0" EffectListID="4" PosX="81" PosY="84" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="36">
                 <GrTxtAtt Code="54924" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
@@ -439,14 +507,22 @@
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="비밀번호 찾기/재등록 기능
-- Ajax 사용, 
-  동적으로 [새로운 비밀번호 설정] 추가" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}{\f1\fswiss\fcharset0 Arial;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;ba\&apos;f1\&apos;b9\&apos;d0\&apos;b9\&apos;f8\&apos;c8\&apos;a3 \&apos;c3\&apos;a3\&apos;b1\&apos;e2/\&apos;c0\&apos;e7\&apos;b5\&apos;ee\&apos;b7\&apos;cf \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
-\f1 - Ajax \f0\&apos;bb\&apos;e7\&apos;bf\&apos;eb, \par
-  \&apos;b5\&apos;bf\&apos;c0\&apos;fb\&apos;c0\&apos;b8\&apos;b7\&apos;ce [\&apos;bb\&apos;f5\&apos;b7\&apos;ce\&apos;bf\&apos;ee \&apos;ba\&apos;f1\&apos;b9\&apos;d0\&apos;b9\&apos;f8\&apos;c8\&apos;a3 \&apos;bc\&apos;b3\&apos;c1\&apos;a4] \&apos;c3\&apos;df\&apos;b0\&apos;a1\par
-}
+            <GrTxtData Title="비밀번호 찾기/재등록 기능
+
+- Ajax 사용, 
+
+  동적으로 [새로운 비밀번호 설정] 추가" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}{\f1\fswiss\fcharset0 Arial;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;ba\&apos;f1\&apos;b9\&apos;d0\&apos;b9\&apos;f8\&apos;c8\&apos;a3 \&apos;c3\&apos;a3\&apos;b1\&apos;e2/\&apos;c0\&apos;e7\&apos;b5\&apos;ee\&apos;b7\&apos;cf \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+\f1 - Ajax \f0\&apos;bb\&apos;e7\&apos;bf\&apos;eb, \par
+
+  \&apos;b5\&apos;bf\&apos;c0\&apos;fb\&apos;c0\&apos;b8\&apos;b7\&apos;ce [\&apos;bb\&apos;f5\&apos;b7\&apos;ce\&apos;bf\&apos;ee \&apos;ba\&apos;f1\&apos;b9\&apos;d0\&apos;b9\&apos;f8\&apos;c8\&apos;a3 \&apos;bc\&apos;b3\&apos;c1\&apos;a4] \&apos;c3\&apos;df\&apos;b0\&apos;a1\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="5823" TotalSeg="1160" VideoIndex="0" EffectListID="5" PosX="43" PosY="89" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="50">
                 <GrTxtAtt Code="48708" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
@@ -502,10 +578,14 @@
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="회원탈퇴 기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c5\&apos;bb\&apos;c5\&apos;f0 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
-}
+            <GrTxtData Title="회원탈퇴 기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;c8\&apos;b8\&apos;bf\&apos;f8\&apos;c5\&apos;bb\&apos;c5\&apos;f0 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="7763" TotalSeg="400" VideoIndex="0" EffectListID="6" PosX="18" PosY="94" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="7">
                 <GrTxtAtt Code="54924" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
@@ -518,14 +598,22 @@
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="게시판 기능
-- 페이징처리
-- 조회수기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b0\&apos;d4\&apos;bd\&apos;c3\&apos;c6\&apos;c7 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
-- \&apos;c6\&apos;e4\&apos;c0\&apos;cc\&apos;c2\&apos;a1\&apos;c3\&apos;b3\&apos;b8\&apos;ae\par
-- \&apos;c1\&apos;b6\&apos;c8\&apos;b8\&apos;bc\&apos;f6\&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
-}
+            <GrTxtData Title="게시판 기능
+
+- 페이징처리
+
+- 조회수기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b0\&apos;d4\&apos;bd\&apos;c3\&apos;c6\&apos;c7 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+- \&apos;c6\&apos;e4\&apos;c0\&apos;cc\&apos;c2\&apos;a1\&apos;c3\&apos;b3\&apos;b8\&apos;ae\par
+
+- \&apos;c1\&apos;b6\&apos;c8\&apos;b8\&apos;bc\&apos;f6\&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="536" TotalSeg="700" VideoIndex="1" EffectListID="7" PosX="17" PosY="87" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="22">
                 <GrTxtAtt Code="44172" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
@@ -553,12 +641,18 @@
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="글쓰기 기능
-- 파일첨부" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b1\&apos;db\&apos;be\&apos;b2\&apos;b1\&apos;e2 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
-- \&apos;c6\&apos;c4\&apos;c0\&apos;cf\&apos;c3\&apos;b7\&apos;ba\&apos;ce\par
-}
+            <GrTxtData Title="글쓰기 기능
+
+- 파일첨부" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b1\&apos;db\&apos;be\&apos;b2\&apos;b1\&apos;e2 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+- \&apos;c6\&apos;c4\&apos;c0\&apos;cf\&apos;c3\&apos;b7\&apos;ba\&apos;ce\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="1490" TotalSeg="1100" VideoIndex="1" EffectListID="8" PosX="83" PosY="91" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="13">
                 <GrTxtAtt Code="44544" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
@@ -577,10 +671,14 @@
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="글 수정/삭제 기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b1\&apos;db \&apos;bc\&apos;f6\&apos;c1\&apos;a4/\&apos;bb\&apos;e8\&apos;c1\&apos;a6 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
-}
+            <GrTxtData Title="글 수정/삭제 기능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b1\&apos;db \&apos;bc\&apos;f6\&apos;c1\&apos;a4/\&apos;bb\&apos;e8\&apos;c1\&apos;a6 \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="3090" TotalSeg="1500" VideoIndex="1" EffectListID="9" PosX="21" PosY="95" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="10">
                 <GrTxtAtt Code="44544" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
@@ -596,26 +694,46 @@
             </GrTxtAttArr>
         </GrObj>
         <GrObj Type="4">
-            <GrTxtData Title="댓글 기능
- 
-- Ajax 활용,
-  동적으로 
-  추가/수정/삭제
- 
-- Session활용,
-  본인 댓글만 
-  수정/삭제 가능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
-{\colortbl ;\red255\green255\blue255;}
-\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b4\&apos;f1\&apos;b1\&apos;db \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
- \par
-- Ajax \&apos;c8\&apos;b0\&apos;bf\&apos;eb,\par
-  \&apos;b5\&apos;bf\&apos;c0\&apos;fb\&apos;c0\&apos;b8\&apos;b7\&apos;ce \par
-  \&apos;c3\&apos;df\&apos;b0\&apos;a1/\&apos;bc\&apos;f6\&apos;c1\&apos;a4/\&apos;bb\&apos;e8\&apos;c1\&apos;a6\par
- \par
-- Session\&apos;c8\&apos;b0\&apos;bf\&apos;eb,\par
-  \&apos;ba\&apos;bb\&apos;c0\&apos;ce \&apos;b4\&apos;f1\&apos;b1\&apos;db\&apos;b8\&apos;b8 \par
-  \&apos;bc\&apos;f6\&apos;c1\&apos;a4/\&apos;bb\&apos;e8\&apos;c1\&apos;a6 \&apos;b0\&apos;a1\&apos;b4\&apos;c9\par
-}
+            <GrTxtData Title="댓글 기능
+
+ 
+
+- Ajax 활용,
+
+  동적으로 
+
+  추가/수정/삭제
+
+ 
+
+- Session활용,
+
+  본인 댓글만 
+
+  수정/삭제 가능" RtfText="{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \&apos;b5\&apos;b8\&apos;bf\&apos;f2;}}
+
+{\colortbl ;\red255\green255\blue255;}
+
+\viewkind4\uc1\pard\cf1\lang1042\f0\fs30\&apos;b4\&apos;f1\&apos;b1\&apos;db \&apos;b1\&apos;e2\&apos;b4\&apos;c9\par
+
+ \par
+
+- Ajax \&apos;c8\&apos;b0\&apos;bf\&apos;eb,\par
+
+  \&apos;b5\&apos;bf\&apos;c0\&apos;fb\&apos;c0\&apos;b8\&apos;b7\&apos;ce \par
+
+  \&apos;c3\&apos;df\&apos;b0\&apos;a1/\&apos;bc\&apos;f6\&apos;c1\&apos;a4/\&apos;bb\&apos;e8\&apos;c1\&apos;a6\par
+
+ \par
+
+- Session\&apos;c8\&apos;b0\&apos;bf\&apos;eb,\par
+
+  \&apos;ba\&apos;bb\&apos;c0\&apos;ce \&apos;b4\&apos;f1\&apos;b1\&apos;db\&apos;b8\&apos;b8 \par
+
+  \&apos;bc\&apos;f6\&apos;c1\&apos;a4/\&apos;bb\&apos;e8\&apos;c1\&apos;a6 \&apos;b0\&apos;a1\&apos;b4\&apos;c9\par
+
+}
+
 " EffectType="0" BackEffectType="1000" Align="0" StartSeg="5048" TotalSeg="2800" VideoIndex="1" EffectListID="10" PosX="80" PosY="72" BrushType="0" GradientType="0" Color="00000000" GradientColor1="00000000" GradientColor2="00000000"/>
             <GrTxtAttArr Size="73">
                 <GrTxtAtt Code="45843" FontSize="60" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="9"/>
